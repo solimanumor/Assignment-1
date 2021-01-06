@@ -1,6 +1,12 @@
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px ;
+}
+p{
+    font-size: 20px;
+}
 span{
     color: salmon;
 }
@@ -19,8 +25,17 @@ span{
     padding: 5px 15px ;
     border-radius: 5px; 
 }
-section{
-    border-color: 1px solid red;
-    margin-bottom: 5px;
-    height: 50px;
+
+.two2 img{
+    width: 100%;
+}
+
+.two2{
+    padding-top: 15px;
+    width: 40%;
+    margin: 3%;
+    float: left;
+}
+.company{
+    text-decoration: none;
 }
