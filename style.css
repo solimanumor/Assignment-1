@@ -58,10 +58,18 @@ span{
     text-align: center;
     padding-top: 30px;
     margin-top: 30px;
+    
     height: 600px;
     background-color: rgba(240, 240, 240, 0.863);
 }
 
+.three img{
+    width: 100%;
+}
 .three3{
-    
+    padding: 20px;
+    width: 25%;
+    height: 100px;
+    float: left;
+    background-color: white;
 }
