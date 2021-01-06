@@ -1,3 +1,11 @@
+.one{
+    background-color: rgb(255, 255, 255);
+    height: 700px;
+}
+.two{
+    background-color: rgb(255, 255, 255);
+    height: 700px; 
+}
 h1{
     font-size: 50px;
 }
@@ -11,6 +19,7 @@ span{
     color: salmon;
 }
 .one1{
+    
     width: 40%;
     margin: 3%;
     float: left;
@@ -26,11 +35,16 @@ span{
     border-radius: 5px; 
 }
 
+.two{
+    margin-top: 10px;
+    
+}
 .two2 img{
     width: 100%;
 }
 
 .two2{
+    
     padding-top: 15px;
     width: 40%;
     margin: 3%;
@@ -39,4 +53,15 @@ span{
 .company{
     text-decoration: none;
     color: blue;
+}
+.three{
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 30px;
+    height: 600px;
+    background-color: rgba(240, 240, 240, 0.863);
+}
+
+.three3{
+    
 }
