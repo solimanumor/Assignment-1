@@ -17,7 +17,7 @@ h2{
     font-size: 40px ;
 }
 h4{
-    font-size: 25px;
+    font-size: 22px;
     font-weight: 700;
 }
 p{
@@ -102,3 +102,19 @@ span{
     padding: 10px;
     border-radius: 10px;
 }
+.four{
+    height: 400px;
+    margin-top: 10px;
+    padding-left: 30%;
+    padding-top: 200px;
+    background: url("shapes/Group_33094_1.png");
+    background-size: 60% 40%;
+    background-position: center;
+    background-repeat: no-repeat;
+    }
+    
+    }
+ .four4{
+     padding-left: 30%;
+     
+ }
